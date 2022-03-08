@@ -53,5 +53,14 @@ print(2 if condition else 1/0)
 * [EAFP](https://stackoverflow.com/questions/11360858/what-is-the-eafp-principle-in-python)
 
 
-# Links de Consulta de Base.
+# Funções
+
+* [Exemplos](functions.py)
+
+
+
+# Links Base.
 [Aula 1 CodeShow - Python Flask](https://www.twitch.tv/videos/637576031)
+
+
+# Teste Git
